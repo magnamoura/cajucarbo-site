@@ -12,7 +12,7 @@ title: Team
 
 ## Ana Paula Guimarães Santos
 **Pesquisadora – Embrapa Semiárido**  
-![Ana](assets/images/ana.jpg)  
+![Ana](assets/images/anapaula.jpg)  
 [Lattes](http://lattes.cnpq.br/2054026614947291) | [ORCID](#)
 
 ## Cloves Vilas Boas dos Santos
@@ -32,7 +32,7 @@ title: Team
 
 ## Jose Espínola Sobrinho
 **Pesquisor – UFERSA**  
-![Jose](assets/images/jose.jpg)  
+![Jose](assets/images/espinola.jpg)  
 [Lattes](http://lattes.cnpq.br/4787543991573578) | [ORCID](#)
 
 ## Marlos Alves Bezerra
@@ -66,7 +66,7 @@ title: Team
 
 ## Ana Paula Guimarães Santos
 **Researcher – Embrapa Semiárido**  
-![Ana](assets/images/ana.jpg)  
+![Ana](assets/images/anapaula.jpg)  
 [Lattes](http://lattes.cnpq.br/2054026614947291) | [ORCID](#)
 
 ## Cloves Vilas Boas dos Santos
@@ -86,7 +86,7 @@ title: Team
 
 ## Jose Espínola Sobrinho
 **Researcher – UFERSA**  
-![Jose](assets/images/jose.jpg)  
+![Jose](assets/images/espinola.jpg)  
 [Lattes](http://lattes.cnpq.br/4787543991573578) | [ORCID](#)
 
 ## Marlos Alves Bezerra
