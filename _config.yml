@@ -2,3 +2,11 @@ title: CajuCarbo Project
 description: Quantificação das emissões de gases do efeito estufa em sistemas de produção de caju
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - about.md
+  - methods.md
+  - data.md
+  - publications.md
+  - team.md
+  - contact.md
