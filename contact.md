@@ -23,4 +23,9 @@ Google Maps Location: [Link](https://www.google.com/maps/search/?api=1&query=Rua
 Social Media: Instagram [@embrapaagroindustriatropical](https://www.instagram.com/embrapaagroindustriatropical), Facebook [@embrapaagroindustriatropical](https://www.facebook.com/embrapaagroindustriatropical)
 
 > For more information about the CashewCarbo project, please contact the project coordination or team via email, phone, or social media.
+---
 
+# 🇧🇷 LINKS / PARTNERS / 🇬🇧 LINKS / PARTNERS
+
+- Financiadoras: CNPq, Embrapa  
+- Colaboradoras: UFERSA, UFCG, Embrapa Semiárido 
