@@ -1,15 +1,110 @@
-# 🇧🇷 EQUIPE / 🇬🇧 TEAM
+---
+layout: default
+title: Team
+---
 
-| Foto | Nome completo | Função | Instituição | Áreas de atuação | Lattes | ORCID |
-|------|---------------|--------|-------------|-----------------|--------|-------|
-| [foto] | Magna Soelma Beserra de Moura | Coordenadora | Embrapa | Agrometeorologia, balanço de energia, mudanças climáticas, instrumentação ambiental | [Lattes](http://lattes.cnpq.br/8749340840097845) | 0000-0002-2844-1399 |
-| [foto] | Ana Paula Guimarães Santos | Pesquisadora | Embrapa Semiárido | Quantificação de gases do efeito estufa, estoques de carbono no solo | [Lattes](http://lattes.cnpq.br/2054026614947291) | [placeholder] |
-| [foto] | Cloves Vilas Boas dos Santos | Pesquisador | Embrapa Semiárido | Sensoriamento remoto multiespectral, hiperespectral e de micro-ondas | [Lattes](http://lattes.cnpq.br/5567311577230727) | [placeholder] |
-| [foto] | Diana Signor Deon | Pesquisadora | Embrapa Semiárido | Ciência do solo, matéria orgânica do solo, sequestro de carbono, fertilidade do solo e adubação | [Lattes](http://lattes.cnpq.br/4627946679292959) | [placeholder] |
-| [foto] | Fabio Rodrigues de Miranda | Pesquisador | Embrapa Agroindústria Tropical | Irrigação e drenagem, conservação de solo e água, engenharia de água e solo, manejo e tratos culturais | [Lattes](http://lattes.cnpq.br/9926820581274995) | [placeholder] |
-| [foto] | Jose Espínola Sobrinho | Pesquisador | Universidade Federal Rural do Semi-Árido (UFERSA) | Climatologia, agrometeorologia | [Lattes](http://lattes.cnpq.br/4787543991573578) | [placeholder] |
-| [foto] | Marlos Alves Bezerra | Pesquisador | Embrapa Agroindústria Tropical | Fisiologia de plantas cultivadas, ecofisiologia vegetal, nutrição e metabolismo de plantas, reprodução vegetal, fisiologia do estresse | [Lattes](http://lattes.cnpq.br/9255248634395364) | [placeholder] |
-| [foto] | Rodolfo Luiz Bezerra Nóbrega | Pesquisador | University of Bristol | Recursos hídricos, hidrologia, planejamento integrado dos recursos hídricos, ciências ambientais | [Lattes](http://lattes.cnpq.br/1196454988987915) | [placeholder] |
-| [foto] | Joabe Santos de Almeida | Colaborador | Embrapa Semiárido | Apoio à instalação e manutenção da torre e sensores em campo | [Lattes](http://lattes.cnpq.br/1196454988987915) | [placeholder] |
-| [foto] | Amanda Nayara de Melo Costa | Colaboradora | Embrapa Agroindústria Tropical | Analista em climatologia e agrometeorologia | [Lattes](http://lattes.cnpq.br/1196454988987915) | [placeholder] |
+# 🇧🇷 Equipe
 
+## Magna Soelma Beserra de Moura
+**Coordenadora – Embrapa Agroindústria Tropical**  
+![Magna](assets/images/magna.jpg)  
+[Lattes](http://lattes.cnpq.br/8749340840097845) | [ORCID](https://orcid.org/0000-0002-2844-1399)
+
+## Ana Paula Guimarães Santos
+**Pesquisadora – Embrapa Semiárido**  
+![Ana](assets/images/ana.jpg)  
+[Lattes](http://lattes.cnpq.br/2054026614947291) | [ORCID](#)
+
+## Cloves Vilas Boas dos Santos
+**Pesquisador – Embrapa Semiárido**  
+![Cloves](assets/images/cloves.jpg)  
+[Lattes](http://lattes.cnpq.br/5567311577230727) | [ORCID](#)
+
+## Diana Signor Deon
+**Pesquisadora – Embrapa Semiárido**  
+![Diana](assets/images/diana.jpg)  
+[Lattes](http://lattes.cnpq.br/4627946679292959) | [ORCID](#)
+
+## Fabio Rodrigues de Miranda
+**Pesquisor – Embrapa Agroindústria Tropical**  
+![Fabio](assets/images/fabio.jpg)  
+[Lattes](http://lattes.cnpq.br/9926820581274995) | [ORCID](#)
+
+## Jose Espínola Sobrinho
+**Pesquisor – UFERSA**  
+![Jose](assets/images/jose.jpg)  
+[Lattes](http://lattes.cnpq.br/4787543991573578) | [ORCID](#)
+
+## Marlos Alves Bezerra
+**Pesquisor – Embrapa Agroindústria Tropical**  
+![Marlos](assets/images/marlos.jpg)  
+[Lattes](http://lattes.cnpq.br/9255248634395364) | [ORCID](#)
+
+## Rodolfo Luiz Bezerra Nóbrega
+**Pesquisor – University of Bristol**  
+![Rodolfo](assets/images/rodolfo.jpg)  
+[Lattes](http://lattes.cnpq.br/1196454988987915) | [ORCID](#)
+
+## Joabe Santos de Almeida
+**Colaborador – Embrapa Semiárido**  
+![Joabe](assets/images/joabe.jpg)  
+[Lattes](http://lattes.cnpq.br/1196454988987915) | [ORCID](#)
+
+## Amanda Nayara de Melo Costa
+**Colaboradora – Embrapa Agroindústria Tropical**  
+![Amanda](assets/images/amanda.jpg)  
+[Lattes](http://lattes.cnpq.br/1196454988987915) | [ORCID](#)
+
+---
+
+# 🇬🇧 Team
+
+## Magna Soelma Beserra de Moura
+**Project Coordinator – Embrapa Agroindústria Tropical**  
+![Magna](assets/images/magna.jpg)  
+[Lattes](http://lattes.cnpq.br/8749340840097845) | [ORCID](https://orcid.org/0000-0002-2844-1399)
+
+## Ana Paula Guimarães Santos
+**Researcher – Embrapa Semiárido**  
+![Ana](assets/images/ana.jpg)  
+[Lattes](http://lattes.cnpq.br/2054026614947291) | [ORCID](#)
+
+## Cloves Vilas Boas dos Santos
+**Researcher – Embrapa Semiárido**  
+![Cloves](assets/images/cloves.jpg)  
+[Lattes](http://lattes.cnpq.br/5567311577230727) | [ORCID](#)
+
+## Diana Signor Deon
+**Researcher – Embrapa Semiárido**  
+![Diana](assets/images/diana.jpg)  
+[Lattes](http://lattes.cnpq.br/4627946679292959) | [ORCID](#)
+
+## Fabio Rodrigues de Miranda
+**Researcher – Embrapa Agroindústria Tropical**  
+![Fabio](assets/images/fabio.jpg)  
+[Lattes](http://lattes.cnpq.br/9926820581274995) | [ORCID](#)
+
+## Jose Espínola Sobrinho
+**Researcher – UFERSA**  
+![Jose](assets/images/jose.jpg)  
+[Lattes](http://lattes.cnpq.br/4787543991573578) | [ORCID](#)
+
+## Marlos Alves Bezerra
+**Researcher – Embrapa Agroindústria Tropical**  
+![Marlos](assets/images/marlos.jpg)  
+[Lattes](http://lattes.cnpq.br/9255248634395364) | [ORCID](#)
+
+## Rodolfo Luiz Bezerra Nóbrega
+**Researcher – University of Bristol**  
+![Rodolfo](assets/images/rodolfo.jpg)  
+[Lattes](http://lattes.cnpq.br/1196454988987915) | [ORCID](#)
+
+## Joabe Santos de Almeida
+**Collaborator – Embrapa Semiárido**  
+![Joabe](assets/images/joabe.jpg)  
+[Lattes](http://lattes.cnpq.br/1196454988987915) | [ORCID](#)
+
+## Amanda Nayara de Melo Costa
+**Collaborator – Embrapa Agroindústria Tropical**  
+![Amanda](assets/images/amanda.jpg)  
+[Lattes](http://lattes.cnpq.br/1196454988987915) | [ORCID](#)
